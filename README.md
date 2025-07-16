@@ -1,4 +1,4 @@
-# Sangrain-HTML
+# Sandgrain-HTML
 A HTML+CSS recreation of a sandgrain studios poster. 
 
 To-do: 
