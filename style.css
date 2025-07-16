@@ -8,18 +8,38 @@
 }
 
 .frame-outer {
-  padding: 12px; /* Picture frame thickness */
-  background: black; /* Frame color */
+  padding: 20px;
+  background: black; 
   display: flex;
   justify-content: center;
   align-items: center;
+
+  box-shadow:
+    0 0 50px rgba(0, 0, 0, 0.4);
 }
 
 .frame-inner {
   aspect-ratio: 2 / 3;
   width: 60vmin;
-  background: #dfddd0; /* Inside of picture */
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  background: #eeece1; /* This is the Sandgrain colour */
+  display: grid;
+  grid-template-columns: 3vmin repeat(5, 1fr) 3vmin;
+  grid-template-rows: 3vmin repeat(9, 1fr) 3vmin;
+}
+
+@font-face {
+    font-family: Helvetica;
+    src: url(Helvetica-Bold.ttf);
+}
+
+.title {
+    font-size: 80px;
+    grid-column: 2 / span 5;
+    grid-row: 1;
+}
+
+.main-image {
+    grid-column: 2 / span 5;
+    grid-row: 5 / span 6;
+    background: #dfddd0;
 }
