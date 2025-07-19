@@ -5,9 +5,9 @@ An entirely HTML+CSS recreation of a sandgrain studios poster. \
 <div align="center">
   <img width="781" height="731" alt="Screenshot 2025-07-19 at 12 40 28 PM" src="https://github.com/user-attachments/assets/8f37711d-fded-48a2-9b9e-5dbbf3007fd8" />
 </div>
-
+\
 ^ The first version that works perfectly!
-
+\
 # To-do: 
 
 -> Comment code properly in preparation for templating. \
