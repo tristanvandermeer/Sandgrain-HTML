@@ -3,10 +3,8 @@ A HTML+CSS recreation of a sandgrain studios poster.
 
 To-do: 
 
--> Review and fix scaling issue. \
-\
-    -> The only real issue is font size. Also, the eyeball logo. \
-\
+-> Review and fix scaling issue. (Partly done, just the logo left, but I'm calling it quites for now)\
+-----> ~~The only real issue is font size.~~ Also, the eyeball logo. \
 -> Add buttons for the variance of the lower margin. \
 -> ~~Fix inner margins.~~ \
 -> ~~Figure out standards for placement of the logo. \~~
