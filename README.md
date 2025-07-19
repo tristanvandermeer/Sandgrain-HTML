@@ -1,5 +1,5 @@
 # Sandgrain-HTML
-An entirely HTML+CSS recreation of a sandgrain studios poster. 
+An entirely HTML+CSS recreation of a sandgrain studios poster. \
 
 
 <div align="center">
