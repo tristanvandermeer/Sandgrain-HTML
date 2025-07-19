@@ -5,6 +5,7 @@ To-do:
 
 -> Review and fix scaling issue. (Partly done, just the logo left, but I'm calling it quites for now)\
 -----> ~~The only real issue is font size.~~ Also, the eyeball logo. \
+-----> Nevermind, upon further testing the scaling is still borken, but for strange aspect ratios. I'll get back to this later. \
 -> Add buttons for the variance of the lower margin. \
 -> ~~Fix inner margins.~~ \
 -> ~~Figure out standards for placement of the logo. \~~
