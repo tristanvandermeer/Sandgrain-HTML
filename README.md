@@ -1,5 +1,5 @@
 # Sandgrain-HTML
-An entirely HTML+CSS recreation of a sandgrain studios poster. \
+An entirely HTML+CSS recreation of a sandgrain studios poster. 
 
 
 <div align="center">
@@ -12,9 +12,9 @@ An entirely HTML+CSS recreation of a sandgrain studios poster. \
 -> Comment code properly in preparation for templating. \
 -> Create other template versions.\
 -> Add buttons for switching templates (?) \
--> Add buttons for the variance of the lower margin. \
+-> Add buttons for the variance of the lower margin. 
 
-Scaling is fixed! No issues with that now.
+Scaling is fixed! No issues with that now. \
 -> ~~Review and fix scaling issue. (Partly done, just the logo left, but I'm calling it quites for now)~~\
 -----> ~~The only real issue is font size. Also, the eyeball logo.~~ \
 -----> ~~Nevermind, upon further testing the scaling is still borken, but for strange aspect ratios. I'll get back to this later. Its on superevil now, but make sure to change the code after I'm done.~~\
