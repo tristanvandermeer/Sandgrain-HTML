@@ -9,6 +9,10 @@ An entirely HTML+CSS recreation of a sandgrain studios poster.
 
 # To-do: 
 
+-> Automate image gathering for templates \ 
+-> Fix background remover crop and subject centering \
+-> Create more templates by hand \
+-> Add template scenarios (per template) (for movie, do x, for tv, do x, etc.) \
 -> Comment code properly in preparation for templating. \
 -> Create other template versions.\
 -> Add buttons for switching templates (?) \
