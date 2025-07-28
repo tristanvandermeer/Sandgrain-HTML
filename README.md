@@ -13,7 +13,9 @@ An entirely HTML+CSS recreation of a sandgrain studios poster.
 -> Fix background remover crop and subject centering \
 -> Create more templates by hand \
 -> Add template scenarios (per template) (for movie, do x, for tv, do x, etc.) \
--> Comment code properly in preparation for templating. \
+-> Comment code properly in preparation for templating (+ Comment as variables rather than comments for adaptability). \
+-> Make sure text fills available space with short titles. \
+-> Add variations for when the media is an installment in a series (This is probably part of scenarios). \
 -> Create other template versions.\
 -> Add buttons for switching templates (?) \
 -> Add buttons for the variance of the lower margin. \
