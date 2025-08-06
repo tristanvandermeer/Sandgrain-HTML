@@ -9,6 +9,8 @@ An entirely HTML+CSS recreation of a sandgrain studios poster.
 
 # To-do: 
 
+Ok it turns out this isn't a totally meaningless, dead-end, goose-chase project and I should pick it up again. Fine.
+
 -> Automate image gathering for templates \ 
 -> Fix background remover crop and subject centering \
 -> Create more templates by hand \
